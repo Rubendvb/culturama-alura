@@ -30,6 +30,10 @@
   justify-content: center;
 }
 
+.eventos__item {
+  flex-grow: 1;
+}
+
 .agenda__lista {
   display: flex;
   flex-wrap: wrap;
